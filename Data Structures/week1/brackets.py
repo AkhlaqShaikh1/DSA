@@ -1,0 +1,1 @@
+def containsBrackets(a):
